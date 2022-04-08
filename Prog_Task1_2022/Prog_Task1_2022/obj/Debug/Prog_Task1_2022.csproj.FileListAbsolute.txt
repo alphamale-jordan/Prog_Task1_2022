@@ -1,0 +1,7 @@
+C:\Users\user\Documents\Programming2A 2022\Console Code\Prog_Task1_2022\Prog_Task1_2022\bin\Debug\Prog_Task1_2022.exe.config
+C:\Users\user\Documents\Programming2A 2022\Console Code\Prog_Task1_2022\Prog_Task1_2022\bin\Debug\Prog_Task1_2022.exe
+C:\Users\user\Documents\Programming2A 2022\Console Code\Prog_Task1_2022\Prog_Task1_2022\bin\Debug\Prog_Task1_2022.pdb
+C:\Users\user\Documents\Programming2A 2022\Console Code\Prog_Task1_2022\Prog_Task1_2022\obj\Debug\Prog_Task1_2022.csproj.AssemblyReference.cache
+C:\Users\user\Documents\Programming2A 2022\Console Code\Prog_Task1_2022\Prog_Task1_2022\obj\Debug\Prog_Task1_2022.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\Programming2A 2022\Console Code\Prog_Task1_2022\Prog_Task1_2022\obj\Debug\Prog_Task1_2022.exe
+C:\Users\user\Documents\Programming2A 2022\Console Code\Prog_Task1_2022\Prog_Task1_2022\obj\Debug\Prog_Task1_2022.pdb
